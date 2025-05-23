@@ -1,0 +1,37 @@
+git init - cria um repositorio na diretoria
+
+git add .
+
+git status
+
+git commit -m "MENSAGEM"
+
+git branch -M master
+
+git remote add origin git@github.com:pfsfreitas/aulagithub.git
+
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
