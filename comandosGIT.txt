@@ -1,3 +1,5 @@
+CRIAR NOVO PROJETO (NECESSARIO CRIAR REPO EM www.github.com)
+
 git init - cria um repositorio na diretoria
 
 git add .
@@ -14,6 +16,23 @@ git push -u origin main
 
 
 
+
+ENVIAR NOVA VERSÃO PARA SERVER:
+
+git status
+
+git add .
+
+git commit -m "MENSAGEM"
+
+git push
+
+
+
+
+CLONAR PROJETO EXISTENTE NO GitHub
+
+git clone git@github.com:pfsfreitas/aulagithub.git
 
 
 
