@@ -77,6 +77,15 @@ git reset --hard <codigo do commit>
 
 
 
+ATUALIZER REPOSITORIO LOCAL EM RELAÇÃO AO REMOTE
+
+git status
+
+git pull <nome do remote> <nome do branch>
+
+
+
+
 
 
 
